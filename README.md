@@ -19,7 +19,7 @@ Click to enlarge the image and see the difference.
 
 <p align="center">
 <img src="./scene4-emission-original.png">  
-<img src="./scene4-ambient.png">  
+<img src="./scene4-emission.png">  
 </p>
 
 
